@@ -12,6 +12,9 @@
 ## 회로
 ![circuit](./img/circuit.png)
 
+## flowchart
+![flowchart](./img/flowchart.png)
+
 ## 개선사항
 - 스위치 사용때마다 delay 사용해야 하는 것 개선
 - 설정 모드의 커서 초기화
