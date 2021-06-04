@@ -7,10 +7,10 @@
 - 시계 설정모드
 
 ### 타이머 구현
-![timer]](./img/timer_theory.png)
+![timer](./img/timer_theory.png)
 
 ## 회로
-![circuit]](./img/circuit.png)
+![circuit](./img/circuit.png)
 
 ## 개선사항
 - 스위치 사용때마다 delay 사용해야 하는 것 개선
